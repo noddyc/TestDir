@@ -1,5 +1,2 @@
-<<<<<<< Updated upstream
 222not test cherry-pick
-=======
-1not test cherry-pick
->>>>>>> Stashed changes
+1not test cherry-picks
