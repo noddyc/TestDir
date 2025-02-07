@@ -4,10 +4,10 @@ bm
 
 b2
 
-I am the latest
 
+I want it that way
 
-master 1 ahead
+one more version on working
 
-master 2 ahead
+one more version on working2
 
